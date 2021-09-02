@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MyFirstApp</string>
+
+    <string name="save_button">send</string>
+</resources>
